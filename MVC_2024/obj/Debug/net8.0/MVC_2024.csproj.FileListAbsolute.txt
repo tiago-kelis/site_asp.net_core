@@ -28,3 +28,4 @@ C:\Users\Tiago kelis\source\repos\MVC_2024\MVC_2024\obj\Debug\net8.0\refint\MVC_
 C:\Users\Tiago kelis\source\repos\MVC_2024\MVC_2024\obj\Debug\net8.0\MVC_2024.pdb
 C:\Users\Tiago kelis\source\repos\MVC_2024\MVC_2024\obj\Debug\net8.0\MVC_2024.genruntimeconfig.cache
 C:\Users\Tiago kelis\source\repos\MVC_2024\MVC_2024\obj\Debug\net8.0\ref\MVC_2024.dll
+C:\Users\Tiago kelis\source\repos\MVC_2024\MVC_2024\obj\Debug\net8.0\MVC_2024.sourcelink.json

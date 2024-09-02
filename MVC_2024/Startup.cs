@@ -1,4 +1,7 @@
-﻿namespace MVC_2024;
+﻿using Microsoft.EntityFrameworkCore;
+using MVC_2024.Context;
+
+namespace MVC_2024;
 
     public class Startup
     {
@@ -12,7 +15,10 @@
 
         public void  ConfigureServices(IServiceCollection services)
         {
-            services.AddControllersWithViews();
+                    services.AddDbContext<AppDbContext>(options =>
+                    options.UseSqlServer(Configuration.GetConnectionString("DefaultConnection")));
+                    services.AddControllersWithViews();
+
         }
 
 

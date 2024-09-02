@@ -5,12 +5,32 @@
       "PackagePath": "staticwebassets\\MVC_2024.bundle.scp.css"
     },
     {
+      "Id": "C:\\Users\\Tiago kelis\\source\\repos\\MVC_2024\\MVC_2024\\wwwroot\\Argo.jpeg",
+      "PackagePath": "staticwebassets\\Argo.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\Tiago kelis\\source\\repos\\MVC_2024\\MVC_2024\\wwwroot\\CarrosCapa.jpeg",
+      "PackagePath": "staticwebassets\\CarrosCapa.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\Tiago kelis\\source\\repos\\MVC_2024\\MVC_2024\\wwwroot\\Fox.jpg",
+      "PackagePath": "staticwebassets\\Fox.jpg"
+    },
+    {
       "Id": "C:\\Users\\Tiago kelis\\source\\repos\\MVC_2024\\MVC_2024\\wwwroot\\css\\site.css",
       "PackagePath": "staticwebassets\\css\\site.css"
     },
     {
       "Id": "C:\\Users\\Tiago kelis\\source\\repos\\MVC_2024\\MVC_2024\\wwwroot\\favicon.ico",
       "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "C:\\Users\\Tiago kelis\\source\\repos\\MVC_2024\\MVC_2024\\wwwroot\\hb20Novo.jpeg",
+      "PackagePath": "staticwebassets\\hb20Novo.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\Tiago kelis\\source\\repos\\MVC_2024\\MVC_2024\\wwwroot\\hyundai-hb20.jpg",
+      "PackagePath": "staticwebassets\\hyundai-hb20.jpg"
     },
     {
       "Id": "C:\\Users\\Tiago kelis\\source\\repos\\MVC_2024\\MVC_2024\\wwwroot\\js\\site.js",
@@ -243,6 +263,10 @@
     {
       "Id": "C:\\Users\\Tiago kelis\\source\\repos\\MVC_2024\\MVC_2024\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
       "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Id": "C:\\Users\\Tiago kelis\\source\\repos\\MVC_2024\\MVC_2024\\wwwroot\\unoMileFire.jpg",
+      "PackagePath": "staticwebassets\\unoMileFire.jpg"
     },
     {
       "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.MVC_2024.Microsoft.AspNetCore.StaticWebAssets.props",
